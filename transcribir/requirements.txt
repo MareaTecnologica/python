@@ -1,0 +1,7 @@
+psycopg2-binary==2.9.11
+PyMySQL==1.1.2
+cryptography
+boto3~=1.42.97
+pandas~=2.3.3
+ollama~=0.6.3
+faster-whisper~=1.2.1
